@@ -1,0 +1,30 @@
+Wyniki do zad5:
+
+dla danych:
+transakcja: "'"
+poprzedni hash: 000000xa036944e29568d0cff17edbe038f81208fecf9a66be9a2b8321c6ec7
+block number: 5
+
+trudność obliczeń dla 4 zer początkowych:
+
+0000f948c6981defc29f6025f88d07fa09ae6a5483af67c05ef528ad5d959f9d
+Successfully mined bitcoins with nonce value: 44834
+Time measured: 0.163867seconds.
+
+trudność obliczeń dla 5 zer początkowych:
+
+000008d0c042bf8ab08a4e3b4e255fc32dd0fafef9ed4d3dacdbaff843b9be9d
+Successfully mined bitcoins with nonce value: 325150
+Time measured: 1.17123seconds.
+
+
+trudność obliczeń dla 6 zer początkowych:
+
+0000009d979721545baf5972caa2ed93f02ea3aad8343dc84558417af7f31e03
+Successfully mined bitcoins with nonce value: 15719178
+Time measured: 57.9954seconds.
+
+
+trudność obliczeń dla 7 zer początkowych:
+
+Po ponad 5 minutach czekania przerwałem szukanie ...
